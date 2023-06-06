@@ -19,7 +19,7 @@ As tecnologias ultilizadas neste projeto foram:
 HTML | CSS | JavaScript | Git | GitHub | Figma
 
 ## Layout Figma
-Layout Figma desenvolvido pelo UI Designer da Rocketseat <a href="https://jonasmilan.cc/" target="_blank">Jonas Milan</a>
+<p align="center"> Layout Figma desenvolvido pelo UI Designer da Rocketseat <a href="https://jonasmilan.cc/" target="_blank">Jonas Milan</a></p>
 <br>
 ![Imagem do Figma](https://raw.githubusercontent.com/amandadecassiaborges/GaleriaHover/main/ImagemFigma.png)
 
