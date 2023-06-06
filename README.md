@@ -7,17 +7,20 @@
 <p align="center">
   <a href="#-projeto">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>
+  <a href="#-layout">Layout Figma</a>
 </p>
 
 ## Projeto
 O projeto "Galeria Hover" é uma página HTML que exibe uma galeria de imagens abstratas. A página utiliza recursos de CSS e JavaScript para criar um efeito de sobreposição interativa ao passar o mouse sobre as imagens.
 
 ## Tecnologias
-As tecnologias ultilizadas neste projeto foram:
+As tecnologias ultilizadas neste projeto foram: 
+<br>
 HTML | CSS | JavaScript | Git | GitHub | Figma
 
 ## Layout Figma
 Layout Figma desenvolvido pelo UI Designer da Rocketseat <a href="https://jonasmilan.cc/" target="_blank">Jonas Milan</a>
+<br>
 ![Imagem do Figma](https://raw.githubusercontent.com/amandadecassiaborges/GaleriaHover/main/ImagemFigma.png)
 
+Este desafio foi criado por [Amanda Borges](https://www.linkedin.com/in/amandadecassiaborges/)
