@@ -20,7 +20,7 @@ HTML | CSS | JavaScript | Git | GitHub | Figma
 
 ## Layout Figma
 <p align="center"> Layout Figma desenvolvido pelo UI Designer da Rocketseat <a href="https://jonasmilan.cc/" target="_blank">Jonas Milan</a></p>
-<br>
+
 ![Imagem do Figma](https://raw.githubusercontent.com/amandadecassiaborges/GaleriaHover/main/ImagemFigma.png)
 
 Este desafio foi criado por [Amanda Borges](https://www.linkedin.com/in/amandadecassiaborges/)
