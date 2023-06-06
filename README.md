@@ -19,5 +19,5 @@ HTML | CSS | JavaScript | Git | GitHub | Figma
 
 ## Layout Figma
 Layout Figma desenvolvido pelo UI Designer da Rocketseat <a href="https://jonasmilan.cc/" target="_blank">Jonas Milan</a>
-![Imagem do Projeto]([https://raw.githubusercontent.com/amandadecassiaborges/GaleriaHover/main/ImagemProjeto.png](https://raw.githubusercontent.com/amandadecassiaborges/GaleriaHover/main/ImagemFigma.png))
+![Imagem do Figma](https://raw.githubusercontent.com/amandadecassiaborges/GaleriaHover/main/ImagemFigma.png)
 
