@@ -1,6 +1,6 @@
 # Galeria com Hover • Desafio 20
 
-Desafio #20 produzidos pela Rocketseat, no Bora Codar.
+<p align="center"> Desafio #20 produzidos pela Rocketseat, no Bora Codar. </p>
 
 ![Imagem do Projeto](https://raw.githubusercontent.com/amandadecassiaborges/GaleriaHover/main/ImagemProjeto.png)
 
