@@ -26,4 +26,4 @@ HTML | CSS | JavaScript | Git | GitHub | Figma
 </p>
 
 
-<p align="center"> Este desafio foi criado por [Amanda Borges](https://www.linkedin.com/in/amandadecassiaborges/) </p>
+<p align="center"> Este desafio foi criado por [Amanda Borges] <a href="https://www.linkedin.com/in/amandadecassiaborges/" target="_blank">LinkendIn</a> </p>
