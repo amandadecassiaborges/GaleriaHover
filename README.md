@@ -14,10 +14,13 @@
 O projeto "Galeria Hover" é uma página HTML que exibe uma galeria de imagens abstratas. A página utiliza recursos de CSS e JavaScript para criar um efeito de sobreposição interativa ao passar o mouse sobre as imagens.
 
 ## 💻 Tecnologias
-<p align="center"> As tecnologias ultilizadas neste projeto foram: 
-<br>
-HTML | CSS | JavaScript | Git | GitHub | Figma
-  </p>
+<div style="display: inline_block"><br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,figma,git,github,html,js,vscode" />
+  </a>
+</p>          
+</div>
 
 ## 👩‍💻 Layout Figma
 <p align="center"> Layout Figma desenvolvido pelo UI Designer da Rocketseat <a href="https://jonasmilan.cc/" target="_blank">Jonas Milan</a></p>
